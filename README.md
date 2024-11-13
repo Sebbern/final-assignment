@@ -2,4 +2,4 @@ Group project during my first semester, I mainly worked on menu.html and index.h
 
 I also worked mainly on index.css, menu.css, accessibility.css and global.css, but also oversaw the code structure on everything except topical.css
 
-View the site on: https://sebbern.github.io/final-assignment/
+View the site on: https://sebbern.github.io/Restaurant-Nettside/
